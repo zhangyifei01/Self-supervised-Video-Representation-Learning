@@ -16,6 +16,24 @@ We list related papers from conferences and journals such as **[CVPR](https://op
 ## 2022
 
 ***
+- Masked Autoencoders As Spatiotemporal Learners (**** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2205.09113) 
+    <details> 
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray> <b>· · Author(s)</b>:</font> Christoph Feichtenhofer, Haoqi Fan, Yanghao Li, Kaiming He  <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font> Facebook AI Research (FAIR) <br>
+    <font color=Gray><b>· · Description</b>: </font>  <br>
+    <font color=Gray><b>· · Tags</b>: </font> Transformer
+    </details>
+***
+- VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training (**VideoMAE** - <font color="#dd0000">**NeurIPS**22</font>) [[paper]](https://arxiv.org/abs/2203.12602) [[code]](https://github.com/MCG-NJU/VideoMAE)
+    <details> 
+    <summary><font size=2>More Info</font></summary>
+    <font color=Gray> <b>· · Author(s)</b>:</font> Zhan Tong, Yibing Song, Jue Wang, Limin Wang  <br>
+    <font color=Gray><b>· · Organization(s)</b>:</font> State Key Laboratory for Novel Software Technology, Nanjing University; Tencent AI Lab <br>
+    <font color=Gray><b>· · Description</b>: </font>  <br>
+    <font color=Gray><b>· · Tags</b>: </font> Transformer
+    </details>
+***
 - TransRank: Self-Supervised Video Representation Learning via Ranking-Based Transformation Recognition (**TransRank** - <font color="#dd0000">**CVPR**22 Oral</font>) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Duan_TransRank_Self-Supervised_Video_Representation_Learning_via_Ranking-Based_Transformation_Recognition_CVPR_2022_paper.pdf) [[code]](https://github.com/kennymckormick/TransRank) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Duan_TransRank_Self-Supervised_Video_CVPR_2022_supplemental.pdf)
     <details> 
     <summary><font size=2>More Info</font></summary>
